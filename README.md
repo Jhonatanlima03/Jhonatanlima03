@@ -11,7 +11,6 @@ Me chamo Jhonatan Fagundes Pires de Lima, tenho 22 anos e sou natural de Minas G
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-      </a>
     <!-- Instagram -->
     <a href="https://www.instagram.com/jhonatan_lima4m/">
         <img 
@@ -19,7 +18,6 @@ Me chamo Jhonatan Fagundes Pires de Lima, tenho 22 anos e sou natural de Minas G
             title="Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
-    </a>
     </a>
     <!-- GitHub Perfil -->
     <a href="https://github.com/Jhonatanlima03">
@@ -85,6 +83,30 @@ Me chamo Jhonatan Fagundes Pires de Lima, tenho 22 anos e sou natural de Minas G
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+/>
+
+<img 
+    align="left" 
+    alt="ChatGPT"
+    title="ChatGPT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+/>
+<img 
+    align="left" 
+    alt="Microsoft Office"
+    title="Microsoft Office 365"
+    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
+/>
+
 
 <br/>
 <br/>
