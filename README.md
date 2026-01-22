@@ -114,13 +114,12 @@ Me chamo Jhonatan Fagundes Pires de Lima, tenho 22 anos e sou natural de Minas G
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jhonatanlima03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jhonatanlima03&show_icons=true&theme=tokyonight&cache_seconds=86400"
   />
+</p>
+
 
 <img 
   align="left" 
@@ -128,5 +127,6 @@ Me chamo Jhonatan Fagundes Pires de Lima, tenho 22 anos e sou natural de Minas G
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanlima03&layout=compact&theme=tokyonight&langs_count=9&custom_title=Tecnologias"
 />
+
 
 </p>
