@@ -60,8 +60,6 @@ Atualmente, estou cursando **Engenharia de Software**. Sou apaixonado por tecnol
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonatanlima03&theme=tokyonight)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonatanlima03&theme=tokyonight)
-
 ## 📊 Linguagens mais usadas
 
 ![Linguagens](https://raw.githubusercontent.com/jhonatanlima03/Github/main/linguagens.svg)
