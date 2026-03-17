@@ -56,11 +56,6 @@ Atualmente, estou cursando **Engenharia de Software**. Sou apaixonado por tecnol
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonatanlima03&theme=tokyonight)
-
----
 
 ## 🚀 Em constante evolução
 
